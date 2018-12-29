@@ -33,3 +33,5 @@ gradlew*
 .DS_Store
 Thumbs.db
 
+~$codeStat.xlsx
+
